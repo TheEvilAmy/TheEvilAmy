@@ -1,6 +1,6 @@
 # About Me
 
-Hello! I'm am Amyy and ues Amy with 2 y's. I like to code lua, JavaScript and I'm still learning how to code Python.
+Hello! I'm Amyy and yes Amy with 2 y's. I like to code lua, JavaScript and I'm still learning how to code Python.
 
 #
 
