@@ -13,7 +13,7 @@
 - Invite ARIS [here](https://discord.com/oauth2/authorize?client_id=815699252968685599&scope=bot&permissions=8)
 - Twitter [here](https://twitter.com/Amyy34041975)
 - Steam [here](https://steamcommunity.com/id/TheEvilAmy/)
-
+- Roblox [here](https://www.roblox.com/users/2290272527/profile)
 
 ---
 
@@ -24,6 +24,7 @@
 - Open Source Discord Bot ARIS-V6 [here](https://github.com/TheEvilAmy/open-source-aris_bot-v6)
 - Simple Open Source Bot [here](https://github.com/TheEvilAmy/Open-source-discordbot)
 - Roblox Tween Script [here](https://github.com/TheEvilAmy/Roblox-Basic_Tween_Script)
+- Find my Repositories [here](https://github.com/TheEvilAmy?tab=repositories)
 
 ---
 
