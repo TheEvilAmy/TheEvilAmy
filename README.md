@@ -27,7 +27,12 @@ Hello! I'm Amyy and yes Amy with 2 y's. I like to code lua, JavaScript and I'm s
   <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/top-langs/?username=TheEvilAmy&layout=default&theme=dark" />
 </a>
   
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/TheEvilAmy/ARISV6">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=ARISV6&show_owner=false&theme=dark" />
+</a>
+
+<a href="https://github.com/TheEvilAmy/ARISV6">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=Invite-ARISV7&show_owner=false&theme=dark" />
 </a>
