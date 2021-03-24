@@ -2,7 +2,7 @@
 
 ---
 
-Hello! I'm Amyy and yes Amy with 2 y's. I like to code lua, JavaScript and I'm still learning how to code Python.
+**Hello! I'm Amyy and yes Amy with 2 y's. I like to code lua, JavaScript and I'm still learning how to code Python.**
 
 ---
 
@@ -11,6 +11,21 @@ Hello! I'm Amyy and yes Amy with 2 y's. I like to code lua, JavaScript and I'm s
 - Working on ROBLOX lua scripts
 - ARIS Official Discord Server [here](https://discord.com/invite/u2x9vHuXS6)
 - Invite ARIS [here](https://discord.com/oauth2/authorize?client_id=815699252968685599&scope=bot&permissions=8)
+- Twitter [here](https://twitter.com/Amyy34041975)
+- Steam [here](https://steamcommunity.com/id/TheEvilAmy/)
+
+
+---
+
+**Public Repositories**
+
+---
+
+- Open Source Discord Bot ARIS-V6 [here](https://github.com/TheEvilAmy/open-source-aris_bot-v6)
+- Simple Open Source Bot [here](https://github.com/TheEvilAmy/Open-source-discordbot)
+- Roblox Tween Script [here](https://github.com/TheEvilAmy/Roblox-Basic_Tween_Script)
+
+---
 
 **Languages and Tools:**  
 
