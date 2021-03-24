@@ -4,6 +4,12 @@ Hello! I'm Amyy and yes Amy with 2 y's. I like to code lua, JavaScript and I'm s
 
 #
 
+- Currently working on ARISV8
+- I’m currently learning Python
+- Working on ROBLOX lua scripts
+- ARIS Official Discord Server [here](https://discord.com/invite/u2x9vHuXS6)
+- Invite ARISV7 [here](https://discord.com/oauth2/authorize?client_id=815699252968685599&scope=bot&permissions=8)
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
