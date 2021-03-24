@@ -1,4 +1,4 @@
-<img src="https://github.com/TheEvilAmy/TheEvilAmy/blob/main/images/_TheEvilAmy__.png">
+<img src="https://github.com/TheEvilAmy/TheEvilAmy/blob/main/images/_TheEvilAmy%20__.png">
 
 ---
 
