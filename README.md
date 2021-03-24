@@ -22,21 +22,31 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/top-langs/?username=TheEvilAmy&layout=default&theme=dark" />
 </a>
-  
-<a href="https://github.com/TheEvilAmy/ARISV6">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=open-source-aris_bot-v6&show_owner=false&theme=dark" />
-</a>
 
 <a href="https://discord.com/oauth2/authorize?client_id=815699252968685599&scope=bot&permissions=8">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=ARIS&show_owner=false&theme=dark" />
 </a>
 
-<a href="https://discord.com/oauth2/authorize?client_id=815699252968685599&scope=bot&permissions=8">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/wakatime?username=TheEvilAmy&layout=default&theme=dark" />
+---
+
+<a href="">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=TheEvilAmy&theme=darkhub" alt="Amy's github Tropy" />
 </a>
+
+---
+  
+<a href="https://github.com/TheEvilAmy/ARISV6">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=open-source-aris_bot-v6&show_owner=false&theme=dark" />
+</a>
+
+  
+<a href="https://github.com/TheEvilAmy/Open-source-discordbot">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=Open-source-discordbot&show_owner=false&theme=dark" />
+</a>
+
 
 ---
 
@@ -56,3 +66,4 @@
 <code><img height="30" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
 
 ---
+
