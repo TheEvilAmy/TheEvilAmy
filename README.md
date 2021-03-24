@@ -28,14 +28,13 @@
   <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=ARIS&show_owner=false&theme=dark" />
 </a>
 
----
-
 <a href="">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=TheEvilAmy&theme=darkhub" alt="Amy's github Tropy" />
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/top-langs/?username=TheEvilAmy&layout=compact&theme=dark" />
 </a>
 
 ---
-  
+
 <a href="https://github.com/TheEvilAmy/ARISV6">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=open-source-aris_bot-v6&show_owner=false&theme=dark" />
@@ -47,6 +46,11 @@
   <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=Open-source-discordbot&show_owner=false&theme=dark" />
 </a>
 
+---
+
+<a href="">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=TheEvilAmy&theme=darkhub" alt="Amy's github Tropy" />
+</a>
 
 ---
 
