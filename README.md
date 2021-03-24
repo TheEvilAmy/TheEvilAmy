@@ -16,40 +16,34 @@
 ---
 
 <a href="">
-  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api?username=TheEvilAmy&theme=dark&show_icons=true&show_icons=true&include_all_commits=true" alt="Amy's github stats" />
+  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api?username=TheEvilAmy&theme=radical&show_icons=true&show_icons=true&include_all_commits=true" alt="Amy's github stats" />
 </a>
 <a href="">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/top-langs/?username=TheEvilAmy&layout=default&theme=dark" />
+  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/top-langs/?username=TheEvilAmy&layout=default&theme=radical" />
 </a>
 
 <a href="https://discord.com/oauth2/authorize?client_id=815699252968685599&scope=bot&permissions=8">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=ARIS&show_owner=false&theme=dark" />
+  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=ARIS&show_owner=false&theme=radical&title_color=FFFFFF" />
 </a>
 
 <a href="">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/top-langs/?username=TheEvilAmy&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/top-langs/?username=TheEvilAmy&layout=compact&theme=radical" />
 </a>
 
 ---
 
 <a href="https://github.com/TheEvilAmy/ARISV6">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=open-source-aris_bot-v6&show_owner=false&theme=dark" />
+  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=open-source-aris_bot-v6&show_owner=false&theme=radical" />
 </a>
 
   
 <a href="https://github.com/TheEvilAmy/Open-source-discordbot">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=Open-source-discordbot&show_owner=false&theme=dark" />
-</a>
-
----
-
-<a href="">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=TheEvilAmy&theme=darkhub" alt="Amy's github Tropy" />
+  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=Open-source-discordbot&show_owner=false&theme=radical" />
 </a>
 
 ---
