@@ -34,5 +34,5 @@ Hello! I'm Amyy and yes Amy with 2 y's. I like to code lua, JavaScript and I'm s
 
 <a href="https://discord.com/oauth2/authorize?client_id=815699252968685599&scope=bot&permissions=8">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=Invite-ARISV7-DiscordBot&show_owner=false&theme=dark" />
+  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=ARIS&show_owner=false&theme=dark" />
 </a>
