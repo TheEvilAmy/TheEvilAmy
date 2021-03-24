@@ -1,10 +1,10 @@
 <img src="https://github.com/TheEvilAmy/TheEvilAmy/blob/main/images/_TheEvilAmy%20__.png">
 
-#
+---
 
 Hello! I'm Amyy and yes Amy with 2 y's. I like to code lua, JavaScript and I'm still learning how to code Python.
 
-#
+---
 
 - Currently working on ARISV8
 - I’m currently learning Python
