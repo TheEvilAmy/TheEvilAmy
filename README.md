@@ -15,7 +15,7 @@
 
 ---
 
-<a href="">
+<a href>
   <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api?username=TheEvilAmy&theme=radical&show_icons=true&show_icons=true&include_all_commits=true" alt="Amy's github stats" />
 </a>
 <a href="">
