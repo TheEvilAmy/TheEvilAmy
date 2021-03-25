@@ -15,7 +15,7 @@
 
 ---
 
-<a >
+<a href="">
   <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api?username=TheEvilAmy&theme=radical&show_icons=true&show_icons=true&include_all_commits=true" alt="Amy's github stats" />
 </a>
 <a href="">
@@ -28,9 +28,9 @@
   <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=ARIS&show_owner=false&theme=radical&title_color=FFFFFF" />
 </a>
 
-<a href="">
+<a href="https://discord.com/oauth2/authorize?client_id=815699252968685599&scope=bot&permissions=8">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/top-langs/?username=TheEvilAmy&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=ARIS&show_owner=false&theme=radical&title_color=FFFFFF" />
 </a>
 
 ---
