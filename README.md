@@ -2,7 +2,7 @@
 
 ---
 
-**Hello! I'm Amyy and yes Amy with 2 y's. I like to code lua, JavaScript and I'm learning how to code Python.**
+**Hello! I'm Amyy and yes Amy with 2 y's. I like to code lua and JavaScript. I'm learning how to code Python.**
 
 ---
 
@@ -16,11 +16,11 @@
 ---
 
 <a href="">
-  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api?username=TheEvilAmy&theme=radical&show_icons=true&show_icons=true&include_all_commits=true" alt="Amy's github stats" />
+  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api?username=TheEvilAmy&theme=radical&show_icons=true&show_icons=true&include_all_commits=true&title_color=FFFFFF" alt="Amy's github stats" />
 </a>
 <a href="">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/top-langs/?username=TheEvilAmy&layout=default&theme=radical" />
+  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/top-langs/?username=TheEvilAmy&layout=default&theme=radical&title_color=FFFFFF" />
 </a>
 
 <a href="https://discord.com/oauth2/authorize?client_id=815699252968685599&scope=bot&permissions=8">
@@ -28,22 +28,22 @@
   <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=ARIS&show_owner=false&theme=radical&title_color=FFFFFF" />
 </a>
 
-<a href="https://discord.com/oauth2/authorize?client_id=815699252968685599&scope=bot&permissions=8">
+<a href="https://github.com/TheEvilAmy/Website">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=ARIS&show_owner=false&theme=radical&title_color=FFFFFF" />
+  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=Website&show_owner=false&theme=radical&title_color=FFFFFF" />
 </a>
 
 ---
 
 <a href="https://github.com/TheEvilAmy/ARISV6">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=open-source-aris_bot-v6&show_owner=false&theme=radical" />
+  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=open-source-aris_bot-v6&show_owner=false&theme=radical&title_color=FFFFFF" />
 </a>
 
   
 <a href="https://github.com/TheEvilAmy/Open-source-discordbot">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=Open-source-discordbot&show_owner=false&theme=radical" />
+  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=Open-source-discordbot&show_owner=false&theme=radical&title_color=FFFFFF" />
 </a>
 
 ---
