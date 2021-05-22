@@ -23,7 +23,7 @@
   <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/top-langs/?username=TheEvilAmy&layout=default&theme=radical&title_color=FFFFFF" />
 </a>
 
-<a href="https://discord.com/oauth2/authorize?client_id=815699252968685599&scope=bot&permissions=8">
+<a href="https://discord.com/oauth2/authorize?client_id=819828470896132107&permissions=8&scope=bot">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=ARIS&show_owner=false&theme=radical&title_color=FFFFFF" />
 </a>
@@ -35,9 +35,10 @@
 
 ---
 
-<a href="https://github.com/TheEvilAmy/ARISV6">
+<a href="https://github.com/TheEvilAmy/Discord_Bot_Open_Source">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=open-source-aris_bot-v6&show_owner=false&theme=radical&title_color=FFFFFF" />
+   <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=Discord_Bot_Open_Source=false&theme=radical&title_color=FFFFFF" 
+  />
 </a>
 
   
