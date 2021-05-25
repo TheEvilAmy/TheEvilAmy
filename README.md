@@ -35,8 +35,9 @@
 
 ---
  
-<a href="https://github.com/TheEvilAmy/Open-source-discordbot">
-  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=Open-source-discordbot&show_owner=false&theme=radical&title_color=FFFFFF" />
+<a href="https://github.com/TheEvilAmy/Discord_Bot_Open_Source">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-vert-eight.vercel.app/api/pin/?username=TheEvilAmy&repo=Discord_Bot_Open_Source&show_owner=false&theme=radical&title_color=FFFFFF" />
 </a>
 
 ---
