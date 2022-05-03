@@ -2,7 +2,7 @@
 
 ---
 
-**Hello! I'm Amyy and yes Amy with 2 y's. I like to code lua and JavaScript. I'm learning how to code Python.**
+**Hello! I'm Emy. I like to program lua and JavaScript.**
 
 ---
 
